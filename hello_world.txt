@@ -1,1 +1,2 @@
 This is the line that refers to the first ever edit..
+Tested the new way to write commits(instead of vim)..
